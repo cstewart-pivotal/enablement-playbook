@@ -1,17 +1,15 @@
 # Enablement Playbook
 Prescriptive approach to enabling people on PCF
 
-### Technical Enablement
-
-#### [No Rocket Scientist Required - Developing +14,000 Message p/second IOT Systems](https://www.youtube.com/watch?v=dzdytNrMafM&list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H&index=17)
-A great discussion of scaling up a 14,000 message per second system IoT system  
-
 
 ### CF Summit 2017 Talks
-For a complete list of our customer stories from CF Summit 2017 visit  
-https://www.youtube.com/playlist?list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H
+A [complete list](https://www.youtube.com/playlist?list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H) of our customer stories and talks from CF Summit 2017 in Santa Clara
 
-## Technical Material to get Started
+### SpringOne Platform 2017 talks
+[All the talks](https://www.youtube.com/playlist?list=PLAdzTan_eSPQ2uPeB0bByiIUMLVAhrPHL)from developers and customers alike at S1P 2017
+
+
+## Getting Started with Pivotal Cloud Foundry
 For your first hands-on taste of working with Pivotal Cloud Foundry try our 15 minute online tutorial at:
 https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction
 
@@ -49,7 +47,7 @@ This is one of the fastest ways for developers to get started.
 
 
 ###  Pivotal Web Services
-Pivotal Web Services is Pivotal’s hosted Cloud Foundry environment where pay for the time they use.  It is a great way to get started becaue you start with $87 of credit, which is roughly 60 days of service.  After the free credit is consumed a small applicaton instances cost ~$10-$20 per month.
+Pivotal Web Services is Pivotal’s hosted Cloud Foundry environment where you pay for the time you use.  It is a great way to get started because you start with $87 of credit, which is roughly 60 days of service.  After the free credit is consumed a small application instances cost ~$10-$20 per month.
 
 #### Advantages:
 *	Start today
@@ -57,12 +55,12 @@ Pivotal Web Services is Pivotal’s hosted Cloud Foundry environment where pay f
 *	Centralized billing - one org with multiple spaces results in centralized billing
 *	Lots of services
 #### Disadvantages:
-*	Does not currently support Spring Cloud Services or Spring Cloud Data Flow (planned for Q42016)
+*	Does not currently support Spring Cloud Data Flow
 *	Not the same services that a customer’s PCF may have.
 *	No Administrator / Operator experience - it’s a shared service that doesn’t have admin capabilities.
 
 ### Deploy your own PCF to AWS/GCP/Azure
-It is possible to deploy your own full installaiton of PCF into one of the Cloud Providers such a AWS, GCP, or Azure for non-commercial, non-revenue generating activities.  Your project team will be responsible for the cost of the cloud infrastructure which typically costs about $100 - $150 per day.  If you are interested in this option please contact your Pivotal leads for more details.
+It is possible to deploy your own full installation of PCF into one of the Cloud Providers such a AWS, GCP, or Azure for non-commercial, non-revenue generating activities.  Your project team will be responsible for the cost of the cloud infrastructure which typically costs about $100 - $150 per day.  If you are interested in this option please contact your Pivotal leads for more details.
 #### Advantages:
 
 *	Supports everything customers use: Spring Cloud Services, MySQL, Rabbit, Redis
