@@ -1,13 +1,13 @@
 # Enablement Playbook
 Prescriptive approach to enabling people on PCF
 
-###Technical Enablement
+### Technical Enablement
 
 #### [No Rocket Scientist Required - Developing +14,000 Message p/second IOT Systems](https://www.youtube.com/watch?v=dzdytNrMafM&list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H&index=17)
 A great discussion of scaling up a 14,000 message per second system IoT system  
 
 
-### But wait there's more....
+### CF Summit 2017 Talks
 For a complete list of our customer stories from CF Summit 2017 visit  
 https://www.youtube.com/playlist?list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H
 
