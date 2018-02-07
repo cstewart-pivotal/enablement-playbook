@@ -6,12 +6,12 @@ Prescriptive approach to enabling people on PCF
 A [complete list](https://www.youtube.com/playlist?list=PLAdzTan_eSPRoRJGArqipaN_r5K74o31H) of our customer stories and talks from CF Summit 2017 in Santa Clara
 
 ### SpringOne Platform 2017 talks
-[All the talks](https://www.youtube.com/playlist?list=PLAdzTan_eSPQ2uPeB0bByiIUMLVAhrPHL)from developers and customers alike at S1P 2017
+[All the talks](https://www.youtube.com/playlist?list=PLAdzTan_eSPQ2uPeB0bByiIUMLVAhrPHL) from developers and customers alike at S1P 2017
 
 
 ## Getting Started with Pivotal Cloud Foundry
-For your first hands-on taste of working with Pivotal Cloud Foundry try our 15 minute online tutorial at:
-https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction
+For your first hands-on taste of working with Pivotal Cloud Foundry try our [15-minute online tutorial](https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction)
+
 
 Once you are ready for more sign-up for the Pivotal Partner Portal at: http://partners.pivotal.io
 It has lots of great material including:
@@ -20,8 +20,8 @@ It has lots of great material including:
 - an FAQ that's great for helping with proposals
 - Sales Plays and Collateral such as .ppt slides
 
-Here is a short video that shows you how to setup your free account on the Pivotal Partner Portal.  
-https://youtu.be/xQdGs2BYZDY
+<!-- Here is a short video that shows you how to setup your free account on the Pivotal Partner Portal.  
+https://youtu.be/xQdGs2BYZDY -->
 
 
 ## Environments you can use for hands-on Development work with Pivotal Cloud Foundry
